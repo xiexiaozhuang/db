@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 # author xxz
+#测试git用
 #引入pymysql
 import pymysql
 #创建类
